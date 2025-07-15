@@ -48,7 +48,7 @@ Xcode, Android Studio, Expo, Postman, Git, Figma, Zeplin, Adobe XD
 **Role:** Cross-platform layout + logic, real-time features, social logins  
 **About:** Construction project review and management platform for different user roles.
 
-### 🛒 [Gangabox, Birbal, Phuza, Peep, MySamaj, LoyalTechs](#)  
+### 🛒 [Gangabox, Birbal, Phuza, Peep, MySamaj, LoyalTechs]  
 Multiple e-commerce, social, and services apps developed using React Native — including deep linking, QR scanning, video ads, and OTP flows.
 
 ---
